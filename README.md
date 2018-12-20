@@ -1,3 +1,5 @@
+#### [install tampermonkey script](https://github.com/xyning/ZhiHuiShu-Assistant/raw/master/nmsl.user.js)  
+  
 # ZhiHuiShu-Assistant
 
 智慧树网课辅助脚本，享受一口气看二十课的畅快体验。
