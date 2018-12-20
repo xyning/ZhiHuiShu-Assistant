@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         你忙啥了.js
 // @namespace    https://lictex.pw/
-// @version      0.12
+// @version      0.13
 // @description  nmsl
 // @author       lictex_
 // @match        http://study.zhihuishu.com/learning/videoList*
