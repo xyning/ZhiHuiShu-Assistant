@@ -17,7 +17,7 @@
         async:true,
         success:function(data){
             $("#nmsl").text("NMSL is running.");
-            eval(data.responseText);
+            eval(data);
         }
     });
 })();
